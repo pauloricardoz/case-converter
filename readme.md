@@ -5,8 +5,13 @@
 ---
 
 :warning: Still under construction. :warning:
+## Install
+```shell
+  npm install @zambs/case-converter
+```
+## Usage:
 
-Features implemented:
+Implemented features: 
 
 - keysToCamel:
   Allow converter object's keys to camelCase style. Also work in arrays with objects (recursivily)
