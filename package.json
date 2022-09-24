@@ -1,6 +1,6 @@
 {
   "name": "@zambs/case-converter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert strings and object keys in a different case type",
   "main": "index.js",
   "scripts": {
