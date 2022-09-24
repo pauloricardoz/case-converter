@@ -1,0 +1,19 @@
+{
+  "name": "@zambs/case-converter",
+  "version": "1.0.0",
+  "description": "Convert strings and object keys in a different case type",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/*.test.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Paulo Ricardo Zambelli",
+    "github": "https://github.com/pauloricardoz"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
